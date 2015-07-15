@@ -1,6 +1,8 @@
 # My firebase forum
 
-Real Time update [Project link](https://dinosaur805.firebaseapp.com)
+Real Time update 
+
+[Project link](https://dinosaur805.firebaseapp.com)
 
 
 ## Previews
@@ -22,4 +24,4 @@ Real Time update [Project link](https://dinosaur805.firebaseapp.com)
 
 [Unauthorized users can only view posts/comment](/snapshots/unauth_view.PNG?raw=true)
 <img src="/snapshots/unauth_view.PNG?raw=true" />
-<p>
+</p>
