@@ -1,12 +1,19 @@
-# my-forum
+# My firebase forum
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.12.1.
+Real Time update [Project link](https://dinosaur805.firebaseapp.com)
 
-## Build & development
 
-Run `grunt` for building and `grunt serve` for preview.
+## Previews
 
-## Testing
+[Main Page](http://i.imgur.com/Rm7c7iK.png)
 
-Running `grunt test` will run the unit tests with karma.
+
+[Login Page](http://i.imgur.com/uL8pzDm.png)
+
+[Register Page](http://i.imgur.com/TdRHP6Z.png)
+
+[Post Delete Privileges](http://i.imgur.com/zhlkeyU.png)
+
+[Comment Delete Privileges](http://i.imgur.com/NQjHUj2.png)
+
+[Unauthorized users can only view posts/comment](http://i.imgur.com/EXXlQEv.png)
