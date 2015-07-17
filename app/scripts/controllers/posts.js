@@ -1,7 +1,7 @@
 'use strict';
 
 app.controller('PostsCtrl', function($scope, $location, Post, Auth){
-	$scope.post = {url: 'http://', title: ''};
+	$scope.post = {url: 'http://', title: '', msg: ''};
 	$scope.posts = Post.all;
 	$scope.user = Auth.user;
 	/*
